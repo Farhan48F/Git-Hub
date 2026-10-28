@@ -11,7 +11,7 @@
 
 * **Programme:** MCA 1st Year (2026–2027)
 * **Subject:** Bash Scripting / Linux, Git & Developer Workflow
-* **Author / Team:** Syed Farhan Ali (Roll No. 48)
+* **Author / Team:** Syed Farhan Ali (Roll No. 48), Swanand Gagare (Roll No. 27)
 * **Date:** October 28, 2026
 
 ---
